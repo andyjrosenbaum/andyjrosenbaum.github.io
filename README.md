@@ -65,3 +65,8 @@ Patent Number: US 9,508,341 B1
 * Spanish: Full Working Proficiency
 * French: Limited Working Proficiency
 * Mandarin Chinese: Elementary Proficiency
+
+## Social Media
+
+* [LinkedIn](https://www.linkedin.com/in/andyjrosenbaum) (@andyjrosenbaum)
+* [Twitter](https://twitter.com/andyjrosenbaum) (@andyjrosenbaum)
