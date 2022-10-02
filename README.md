@@ -30,7 +30,7 @@ Jack FitzGerald, Shankar Ananthakrishnan, Konstantine Arkoudas, Davide Bernardi,
 
 June 2022
 
-Presented at [KDD 2022](https://kdd.org/kdd2022/).
+Presented at [KDD 2022](https://kdd.org/kdd2022/) (The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining), Washington, DC, USA, August 14-18, 2022
 
 [arXiv](https://arxiv.org/abs/2206.07808)
 
