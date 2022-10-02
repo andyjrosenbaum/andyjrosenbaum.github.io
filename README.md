@@ -50,17 +50,14 @@ Patent Number: US 9,508,341 B1
 
 ## Licenses and Certifications
 
-
-
-* Machine Learning, Coursera, 2017
 * Deep Learning Specialization, Coursera, 2018
 	* Neural Networks and Deep Learning
 	* Structuring Machine Learning Projects
 	* Convolutional Neural Networks
 	* Sequence Models
-	* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and 
+	* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+* Machine Learning, Coursera, 2017
 * Trinity College London Certificate in Teaching English to Speakers of Other Languages (TESOL), Active Language Institute, Cádiz, Spain, 2011
-* Teaching English to Young Learners (TYLE), Active Language Institute, Cádiz, Spain, 2011
 
 ## Languages
 
