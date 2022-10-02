@@ -1,9 +1,6 @@
-theme: minima
+theme: jekyll-theme-minimal
 title: Andy Rosenbaum (罗安迪)
 description: I am a Machine Learning Scientist at Amazon Alexa AI. I enjoy classical music, vegetarian cooking, and ice hockey.
 logo: "/images/andy_head_shot_full_zoom.jpeg"
-
-minima:
-  social_links:
-    twitter: andyjrosenbaum
-    linkedin: andyjrosenbaum
+twitter:
+  username: andyjrosenbaum
