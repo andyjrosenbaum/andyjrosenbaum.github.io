@@ -66,7 +66,8 @@ Patent Number: US 9,508,341 B1
 * French: Limited Working Proficiency
 * Mandarin Chinese: Elementary Proficiency
 
-## Social Media
+## Sites
 
-* [LinkedIn](https://www.linkedin.com/in/andyjrosenbaum) (@andyjrosenbaum)
+* [Google Scholar](https://scholar.google.com/citations?user=r3HxDqAAAAAJ&hl=en)
 * [Twitter](https://twitter.com/andyjrosenbaum) (@andyjrosenbaum)
+* [LinkedIn](https://www.linkedin.com/in/andyjrosenbaum) (@andyjrosenbaum)
