@@ -1,7 +1,8 @@
 # Andy Rosenbaum (罗安迪)
 
-I am a Machine Learning Scientist at Amazon Alexa AI. I enjoy classical music, vegetarian cooking, and ice hockey.
+![Andy Rosenbaum Head Shot](https://raw.githubusercontent.com/andyjrosenbaum/andyjrosenbaum.github.io/main/images/andy_head_shot_full_zoom.jpeg "Andy Rosenbaum (罗安迪)")
 
+I am a Machine Learning Scientist at Amazon Alexa AI. I enjoy classical music, vegetarian cooking, and ice hockey.
 
 ## Publications
 
