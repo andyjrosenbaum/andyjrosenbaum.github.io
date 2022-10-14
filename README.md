@@ -2,7 +2,7 @@
 
 ### CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing
 
-Andy Rosenbaum, Saleh Soltan, Wael Hamza, Amir Saffari, Macro Damonte, Isabel Groves
+Andy Rosenbaum, Saleh Soltan, Wael Hamza, Amir Saffari, Marco Damonte, Isabel Groves
 
 October 2022
 
