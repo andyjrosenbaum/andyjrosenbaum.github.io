@@ -1,5 +1,17 @@
 ## Publications
 
+### CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing
+
+Andy Rosenbaum, Saleh Soltan, Wael Hamza, Amir Saffari, Macro Damonte, Isabel Groves
+
+October 2022
+
+Presented at [AACL-IJCNLP 2022](https://www.aacl2022.org/) (The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing), Online, November 20-23, 2022
+
+[arXiv](https://arxiv.org/abs/2210.07074)
+
+
+
 ### LINGUIST: Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging
 
 Andy Rosenbaum, Saleh Soltan, Wael Hamza, Yannick Versley, Markus Boese
@@ -7,6 +19,8 @@ Andy Rosenbaum, Saleh Soltan, Wael Hamza, Yannick Versley, Markus Boese
 September 2022
 
 Presented at [COLING 2022](https://coling2022.org) (The 29th International Conference on Computational Linguistics), Gyeongju, Republic of Korea, October 12-17, 2022.
+
+[ACL Anthology](https://aclanthology.org/2022.coling-1.18/)
 
 [arXiv](https://arxiv.org/abs/2209.09900)
 
