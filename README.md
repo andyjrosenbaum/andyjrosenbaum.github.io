@@ -1,5 +1,16 @@
 ## Publications
 
+
+### Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding
+
+Maximillian Chen, Alexandros Papangelis, Chenyang Tao, Andy Rosenbaum, Seokhwan Kim, Yang Liu, Zhou Yu, Dilek Hakkani-Tur
+
+October 2022
+
+Presented at [SyntheticData4ML @ NeurIPS 2022](https://www.syntheticdata4ml.vanderschaar-lab.com/), New Orleans, LA, USA, December 2, 2022
+
+[arXiv](https://arxiv.org/abs/2210.14169)
+
 ### CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing
 
 Andy Rosenbaum, Saleh Soltan, Wael Hamza, Amir Saffari, Marco Damonte, Isabel Groves
