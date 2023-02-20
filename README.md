@@ -1,6 +1,6 @@
 ## Blog Posts
 
-[Using large language models (LLMs) to synthesize training data (Amazon Science)](https://www.amazon.science/blog/using-large-language-models-llms-to-synthesize-training-data)
+[Using large language models (LLMs) to synthesize training data](https://www.amazon.science/blog/using-large-language-models-llms-to-synthesize-training-data), Amazon Sciece, January 2023
 
 ## Publications
 
@@ -119,5 +119,6 @@ Patent Number: US 9,508,341 B1
 ## Sites
 
 * [Google Scholar](https://scholar.google.com/citations?user=r3HxDqAAAAAJ&hl=en)
+* [Semantic Scholar](https://www.semanticscholar.org/author/Andrew-Rosenbaum/146177177)
 * [Twitter](https://twitter.com/andyjrosenbaum) (@andyjrosenbaum)
 * [LinkedIn](https://www.linkedin.com/in/andyjrosenbaum) (@andyjrosenbaum)
