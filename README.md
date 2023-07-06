@@ -1,6 +1,6 @@
 ## Blog Posts
 
-[Using large language models (LLMs) to synthesize training data](https://www.amazon.science/blog/using-large-language-models-llms-to-synthesize-training-data), Amazon Sciece, January 2023
+[Using large language models (LLMs) to synthesize training data](https://www.amazon.science/blog/using-large-language-models-llms-to-synthesize-training-data) \| Amazon Sciece \| January 2023
 
 ## Publications
 
