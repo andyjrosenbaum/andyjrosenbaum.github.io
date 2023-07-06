@@ -1,6 +1,10 @@
 ## Blog Posts
 
-[Using large language models (LLMs) to synthesize training data](https://www.amazon.science/blog/using-large-language-models-llms-to-synthesize-training-data) \| Amazon Sciece \| January 2023
+### [Using large language models (LLMs) to synthesize training data](https://www.amazon.science/blog/using-large-language-models-llms-to-synthesize-training-data)
+
+**Andy Rosenbaum**, Saleh Soltan, Wael Hamza
+
+Amazon Science \| January 2023
 
 ## Publications
 
@@ -20,7 +24,7 @@ Presented at [Interspeech 2023](https://interspeech2023.org) \| Dublin, Ireland 
 
 [Amazon Science](https://www.amazon.science/publications/sampling-bias-in-nlu-models-impact-and-mitigation)
 
-### PLACES: Prompting language models for social conversation synthesis
+### PLACES: Prompting Language Models for Social Conversation Synthesis
 
 Maximillian Chen, Alexandros Papangelis, Chenyang Tao, Seokhwan Kim, **Andy Rosenbaum**, Yang Liu, Dilek Hakkani-Tür
 
