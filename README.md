@@ -8,6 +8,18 @@ Amazon Science \| January 2023
 
 ## Publications
 
+### CALICO: Conversational Agent Localization via Synthetic Data Generation
+
+**Andy Rosenbaum**, Pegah Kharazmi, Ershad Banijamali, Lu Zeng, Christopher DiPersio, Vivi Wei, Gokmen Oz, Clement Chung, Karolina Owczarzak, Fabian Triefenbach, Wael Hamza
+
+Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleansa, LA, USA \| December 16, 2023
+
+### GeMQuAD: Generating Multilingual Question Answering Datasets from Large Language Models Using Few Shot Learning
+
+Amani Namboori, Shivam Mangale, **Andy Rosenbaum**, Saleh Soltan
+
+Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleansa, LA, USA \| December 16, 2023
+
 ### Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models
 
 Saleh Soltan, **Andy Rosenbaum**, Tobias Falke, Qin Lu, Anna Rumshisky, Wael Hamza
