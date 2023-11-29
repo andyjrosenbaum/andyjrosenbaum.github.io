@@ -14,11 +14,15 @@ Amazon Science \| January 2023
 
 Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleansa, LA, USA \| December 16, 2023
 
+[Amazon Science](https://www.amazon.science/publications/calico-conversational-agent-localization-via-synthetic-data-generation)
+
 ### GeMQuAD: Generating Multilingual Question Answering Datasets from Large Language Models Using Few Shot Learning
 
 Amani Namboori, Shivam Mangale, **Andy Rosenbaum**, Saleh Soltan
 
 Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleansa, LA, USA \| December 16, 2023
+
+[Amazon Science](https://www.amazon.science/publications/gemquad-generating-multilingual-question-answering-datasets-from-large-language-models-using-few-shot-learning)
 
 ### Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models
 
@@ -26,7 +30,7 @@ Saleh Soltan, **Andy Rosenbaum**, Tobias Falke, Qin Lu, Anna Rumshisky, Wael Ham
 
 Presented at Findings of [ACL 2023](https://2023.aclweb.org) (The 61st Annual Meeting of the Association for Computational Linguistics) and [SustaiNLP 2023](https://sites.google.com/view/sustainlp2023) (Fourth Workshop on Simple and Efficient Natural Language Processing) \| Toronto, ON, Canada \| July 9-14, 2023
 
-[Amazon Science](https://www.amazon.science/publications/recipes-for-sequential-pre-training-of-multilingual-encoder-and-seq2seq-models) \| [arXiv](https://arxiv.org/abs/2306.08756)
+[ACL Anthology](https://aclanthology.org/2023.findings-acl.598/) \| [Amazon Science](https://www.amazon.science/publications/recipes-for-sequential-pre-training-of-multilingual-encoder-and-seq2seq-models) \| [arXiv](https://arxiv.org/abs/2306.08756)
 
 ### Sampling bias in NLU models: Impact and mitigation
 
