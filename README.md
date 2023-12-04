@@ -12,17 +12,13 @@ Amazon Science \| January 2023
 
 **Andy Rosenbaum**, Pegah Kharazmi, Ershad Banijamali, Lu Zeng, Christopher DiPersio, Vivi Wei, Gokmen Oz, Clement Chung, Karolina Owczarzak, Fabian Triefenbach, Wael Hamza
 
-> Abstract: We present CALICO, a method to fine-tune Large Language Models (LLMs) to localize conversational agent training data from one language to another. For slots (named entities), CALICO supports three operations: verbatim copy, literal translation, and localization, i.e. generating slot values more appropriate in the target language, such as city and airport names located in countries where the language is spoken. Furthermore, we design an iterative filtering mechanism to discard noisy generated samples, which we show boosts the performance of the downstream conversational agent. To prove the effectiveness of CALICO, we build and release a new human-localized (HL) version of the MultiATIS++ travel information test set in 8 languages. Compared to the original human-translated (HT) version of the test set, we show that our new HL version is more challenging. We also show that CALICO out-performs state-of-the-art LINGUIST (which relies on literal slot translation out of context) both on the HT case, where CALICO generates more accurate slot translations, and on the HL case, where CALICO generates localized slots which are closer to the HL test set.
-
-Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleansa, LA, USA \| December 16, 2023
+Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleans, LA, USA \| December 16, 2023
 
 [Amazon Science](https://www.amazon.science/publications/calico-conversational-agent-localization-via-synthetic-data-generation)
 
 ### GeMQuAD: Generating Multilingual Question Answering Datasets from Large Language Models Using Few Shot Learning
 
 Amani Namboori, Shivam Mangale, **Andy Rosenbaum**, Saleh Soltan
-
-> Abstract: The emergence of Large Language Models (LLMs) with capabilities like In-Context Learning (ICL) has ushered in new possibilities for data generation across various domains while minimizing the need for extensive data collection and modeling techniques. Researchers have explored ways to use this generated synthetic data to optimize smaller student models for reduced deployment costs and lower latency in downstream tasks. However, ICL-generated data often suffers from low quality as the task specificity is limited with few examples used in ICL. In this paper, we pro-pose GeMQuAD - a semi-supervised learning approach, extending the WeakDAP framework, applied to a dataset generated through ICL with just one example in the target language using AlexaTM 20B Seq2Seq LLM. Through our approach, we iteratively identify high-quality data to enhance model performance, especially for low-resource multilingual setting in the context of Extractive Question Answering task. Our framework outperforms the machine translation-augmented model by 0.22/1.68 F1/EM (Exact Match) points for Hindi and 0.82/1.37 F1/EM points for Spanish on the MLQA dataset, and it surpasses the performance of model trained on an English-only dataset by 5.05/6.50 F1/EM points for Hindi and 3.81/3.69 points F1/EM for Spanish on the same dataset. Notably, our approach uses a pre-trained LLM for generation with no fine-tuning (FT), utilizing just a single annotated example in ICL to generate data, providing a cost-effective development process.
 
 Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleansa, LA, USA \| December 16, 2023
 
