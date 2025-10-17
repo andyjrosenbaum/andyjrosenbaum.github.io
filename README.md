@@ -1,3 +1,16 @@
+## Work Experience
+
+### Amazon: Alexa AI & AGI
+
+Senior Applied Scientist \| Boston, MA, USA \| January 2014 – December 2024
+
+* **Core researcher on pre-training and fine-tuning Amazon Nova and Alexa Teacher Models.**
+* **Trained, optimized, and deployed speech & language models for Alexa and Amazon shopping app.**
+* Designed tools to accelerate research; partnered with engineering and management teams to drive adoption.
+* Thoroughly documented business critical protocols, reducing manual errors and improving throughput.
+* Automated processes for speech and language model updates to accelerate deployments to customers.
+* Tech lead for scientists across international sites on multilingual synthetic data generation (CALICO, CLASP, and LINGUIST papers).
+
 ## Blog Posts
 
 ### [Using large language models (LLMs) to synthesize training data](https://www.amazon.science/blog/using-large-language-models-llms-to-synthesize-training-data)
@@ -6,7 +19,7 @@
 
 Amazon Science \| January 2023
 
-## Publications
+## First-Author Publications
 
 ### CALICO: Conversational Agent Localization via Synthetic Data Generation
 
@@ -16,6 +29,40 @@ Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.synthe
 
 [Amazon Science](https://www.amazon.science/publications/calico-conversational-agent-localization-via-synthetic-data-generation)
 
+### Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models
+
+Saleh Soltan, **Andy Rosenbaum**, Tobias Falke, Qin Lu, Anna Rumshisky, Wael Hamza
+
+Presented at Findings of [ACL 2023](https://2023.aclweb.org) (The 61st Annual Meeting of the Association for Computational Linguistics) and [SustaiNLP 2023](https://sites.google.com/view/sustainlp2023) (Fourth Workshop on Simple and Efficient Natural Language Processing) \| Toronto, ON, Canada \| July 9-14, 2023
+
+[ACL Anthology](https://aclanthology.org/2023.findings-acl.598/) \| [Amazon Science](https://www.amazon.science/publications/recipes-for-sequential-pre-training-of-multilingual-encoder-and-seq2seq-models) \| [arXiv](https://arxiv.org/abs/2306.08756)
+
+### CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing
+
+**Andy Rosenbaum**, Saleh Soltan, Wael Hamza, Amir Saffari, Marco Damonte, Isabel Groves
+
+Presented at [AACL-IJCNLP 2022](https://www.aacl2022.org/) (The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing) \| Online \| November 20-23, 2022
+
+[ACL Anthology](https://aclanthology.org/2022.aacl-short.56/) \| [Amazon Science](https://www.amazon.science/publications/clasp-few-shot-cross-lingual-data-augmentation-for-semantic-parsing) \| [arXiv](https://arxiv.org/abs/2210.07074)
+
+### LINGUIST: Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging
+
+**Andy Rosenbaum**, Saleh Soltan, Wael Hamza, Yannick Versley, Markus Boese
+
+Presented at [COLING 2022](https://coling2022.org) (The 29th International Conference on Computational Linguistics) \| Gyeongju, Republic of Korea \| October 12-17, 2022.
+
+[ACL Anthology](https://aclanthology.org/2022.coling-1.18/) \| [Amazon Science](https://www.amazon.science/publications/linguist-language-model-instruction-tuning-to-generate-annotated-utterances-for-intent-classification-and-slot-tagging) \| [arXiv](https://arxiv.org/abs/2209.09900)
+
+
+## Contributing Author Publications
+
+### The Amazon Nova family of models: Technical report and model card
+
+Amazon AGI Technical Staff
+
+[Amazon Science](https://www.amazon.science/publications/the-amazon-nova-family-of-models-technical-report-and-model-card) \| [arxiv](https://arxiv.org/abs/2506.12103) \| December 2024
+
+
 ### GeMQuAD: Generating Multilingual Question Answering Datasets from Large Language Models Using Few Shot Learning
 
 Amani Namboori, Shivam Mangale, **Andy Rosenbaum**, Saleh Soltan
@@ -24,13 +71,6 @@ Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.synthe
 
 [Amazon Science](https://www.amazon.science/publications/gemquad-generating-multilingual-question-answering-datasets-from-large-language-models-using-few-shot-learning)
 
-### Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models
-
-Saleh Soltan, **Andy Rosenbaum**, Tobias Falke, Qin Lu, Anna Rumshisky, Wael Hamza
-
-Presented at Findings of [ACL 2023](https://2023.aclweb.org) (The 61st Annual Meeting of the Association for Computational Linguistics) and [SustaiNLP 2023](https://sites.google.com/view/sustainlp2023) (Fourth Workshop on Simple and Efficient Natural Language Processing) \| Toronto, ON, Canada \| July 9-14, 2023
-
-[ACL Anthology](https://aclanthology.org/2023.findings-acl.598/) \| [Amazon Science](https://www.amazon.science/publications/recipes-for-sequential-pre-training-of-multilingual-encoder-and-seq2seq-models) \| [arXiv](https://arxiv.org/abs/2306.08756)
 
 ### Sampling bias in NLU models: Impact and mitigation
 
@@ -57,21 +97,6 @@ Presented at [SyntheticData4ML @ NeurIPS 2022](https://www.syntheticdata4ml.vand
 
 [Amazon Science](https://www.amazon.science/publications/weakly-supervised-data-augmentation-through-prompting-for-dialogue-understanding) \| [arXiv](https://arxiv.org/abs/2210.14169)
 
-### CLASP: Few-Shot Cross-Lingual Data Augmentation for Semantic Parsing
-
-**Andy Rosenbaum**, Saleh Soltan, Wael Hamza, Amir Saffari, Marco Damonte, Isabel Groves
-
-Presented at [AACL-IJCNLP 2022](https://www.aacl2022.org/) (The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 12th International Joint Conference on Natural Language Processing) \| Online \| November 20-23, 2022
-
-[ACL Anthology](https://aclanthology.org/2022.aacl-short.56/) \| [Amazon Science](https://www.amazon.science/publications/clasp-few-shot-cross-lingual-data-augmentation-for-semantic-parsing) \| [arXiv](https://arxiv.org/abs/2210.07074)
-
-### LINGUIST: Language Model Instruction Tuning to Generate Annotated Utterances for Intent Classification and Slot Tagging
-
-**Andy Rosenbaum**, Saleh Soltan, Wael Hamza, Yannick Versley, Markus Boese
-
-Presented at [COLING 2022](https://coling2022.org) (The 29th International Conference on Computational Linguistics) \| Gyeongju, Republic of Korea \| October 12-17, 2022.
-
-[ACL Anthology](https://aclanthology.org/2022.coling-1.18/) \| [Amazon Science](https://www.amazon.science/publications/linguist-language-model-instruction-tuning-to-generate-annotated-utterances-for-intent-classification-and-slot-tagging) \| [arXiv](https://arxiv.org/abs/2209.09900)
 
 ### AlexaTM 20B: Few-Shot Learning Using a Large-Scale Multilingual Seq2Seq Model
 
