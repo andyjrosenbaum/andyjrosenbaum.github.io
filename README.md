@@ -128,8 +128,9 @@ Abstract: Features are disclosed for active learning to identify the words which
 
 ## Education
 
-* M.A. in Computational Linguistics \| Brandeis University \| 2014
-* B.S. in Mathematics and Minor in Linguistics \| University of Florida \| 2011
+* Rabbinical Studies \| Aish HaTorah (Jerusalem, Israel) & Rabbinical College of America (Morristown, NJ) \| 2024-present
+* M.A. in Computational Linguistics \| Brandeis University (Waltham, MA) \| 2014
+* B.S. in Mathematics and Minor in Linguistics \| University of Florida (Gainesville, FL) \| 2011
 
 ## Licenses and Certifications
 
