@@ -27,7 +27,7 @@ Amazon Science \| January 2023
 
 Presented at [NeurIPS 2023 Workshop on SyntheticData4ML 2023](https://www.syntheticdata4ml.vanderschaar-lab.com) \| New Orleans, LA, USA \| December 16, 2023
 
-[Amazon Science](https://www.amazon.science/publications/calico-conversational-agent-localization-via-synthetic-data-generation)
+[Amazon Science](https://www.amazon.science/publications/calico-conversational-agent-localization-via-synthetic-data-generation) \| [arXiv](https://arxiv.org/abs/2412.05388)
 
 ### Recipes for Sequential Pre-training of Multilingual Encoder and Seq2Seq Models
 
