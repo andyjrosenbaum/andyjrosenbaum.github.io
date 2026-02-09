@@ -21,6 +21,14 @@ Amazon Science \| January 2023
 
 ## First-Author Publications
 
+### MTQE.en-he: Machine Translation Quality Estimation for English-Hebrew
+
+**Andy Rosenbaum**, Assaf Siani, Ilan Kernerman
+
+Presented at [LoResLM (Language Models for Low-Resource Languages) @ EACL 2026](https://loreslm.github.io) \| Rabat, Morocco \| March 29, 2026
+
+[arXiv](https://arxiv.org/abs/2602.06546)
+
 ### CALICO: Conversational Agent Localization via Synthetic Data Generation
 
 **Andy Rosenbaum**, Pegah Kharazmi, Ershad Banijamali, Lu Zeng, Christopher DiPersio, Vivi Wei, Gokmen Oz, Clement Chung, Karolina Owczarzak, Fabian Triefenbach, Wael Hamza
